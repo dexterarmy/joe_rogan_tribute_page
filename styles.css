@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: rgb(107, 91, 91);
+}
+
+h1 {
+  text-align: center;
+}
+
+/* to center inline child image element */
+figure {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 0 20px;
+}
+
+a {
+  color: white;
+}
+
+figcaption {
+  margin-top: 7px;
+}
